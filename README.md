@@ -1,4 +1,4 @@
-# Proyecto del Brazo Robótico Impreso en 3D con Patín Móvil
+# DISEÑO, SIMULACIÓN E IMPLEMENTACIÓN DE UN ROBOT ANGULAR VERTICAL CON GRADOS DE LIBERTAD AMPLIADOS
 
 ![foto robot5](https://github.com/guillegv97/eezybotarm_mk2_arduino/assets/145389804/863c1413-3839-4521-8379-8cf537bf0445)
 
