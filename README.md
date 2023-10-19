@@ -1,5 +1,7 @@
 # Proyecto del Brazo Robótico Impreso en 3D con Patín Móvil
 
+![foto robot5](https://github.com/guillegv97/eezybotarm_mk2_arduino/assets/145389804/863c1413-3839-4521-8379-8cf537bf0445)
+
 Este repositorio contiene el código y los archivos de diseño para un brazo robótico impreso en 3D basado en el modelo EEZYbotARM MK2 montado en un patín móvil. El propósito de este proyecto es proporcionar a la comunidad la oportunidad de replicar y construir su propio brazo robótico móvil, con el fin de ayudar a colegios y pequeñas empresas a automatizar tareas repetitivas de manera asequible y educativa.
 
 ## Descripción
