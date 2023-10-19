@@ -31,9 +31,5 @@ El brazo robótico impreso en 3D sobre un patín móvil combina la flexibilidad 
 
 Para obtener instrucciones detalladas sobre cómo ensamblar y configurar el brazo robótico impreso en 3D con patín móvil, consulte la [documentación del proyecto].
 
-## Contribuciones
-
-¡Apreciamos las contribuciones de la comunidad! Si desea contribuir al proyecto, lea nuestras [pautas de contribución](CONTRIBUTING.md) y presente sus propuestas a través de solicitudes de extracción (pull requests).
-
 ¡Esperamos que este proyecto sea útil para ti y tu comunidad!
 
